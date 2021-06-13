@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "D:\\Git"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CRM",
+		"liveServer.settings.port": 5501
+	}
+}
